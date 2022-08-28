@@ -1,2 +1,1 @@
 F1 file
-To test Merge conflict
